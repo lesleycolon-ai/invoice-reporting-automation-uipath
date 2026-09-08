@@ -21,20 +21,20 @@ The UiPath workflow:
 
 ## Tech Stack
 
-- UiPath Web Studio
-- UiPath Document Understanding
-- UiPath GenAI Content Generation
-- Google Drive
-- Google Sheets
-- OCR and document extraction
-- Confidence-score validation
+* UiPath Web Studio
+* UiPath Document Understanding
+* UiPath GenAI Content Generation
+* Google Drive
+* Google Sheets
+* OCR and document extraction
+* Confidence-score validation
 
 ## Testing Results
 
-- Achieved 98%+ extraction accuracy during project testing.
-- Processed invoices in approximately 10 seconds per document.
-- Used a 0.70 confidence threshold to flag low-confidence extractions for review.
-- Confirmed that only qualifying invoices were written to the Google Sheets output report.
+* Achieved 98%+ extraction accuracy during project testing.
+* Processed invoices in approximately 10 seconds per document.
+* Used a 0.70 confidence threshold to flag low-confidence extractions for review.
+* Confirmed that only qualifying invoices were written to the Google Sheets output report.
 
 ## Project Documentation
 
@@ -42,13 +42,26 @@ Project case study and sanitized screenshots will be added here.
 
 ## Future Improvements
 
-- Add monitoring and dashboards for throughput and exception trends.
-- Support additional document types, including purchase orders and receipts.
-- Add approval workflows for high-value invoices.
-- Expand support for multiple supplier folders and multi-language invoices.
+* Add monitoring and dashboards for throughput and exception trends.
+* Support additional document types, including purchase orders and receipts.
+* Add approval workflows for high-value invoices.
+* Expand support for multiple supplier folders and multi-language invoices.
 
 ## Author
 
 Lesley Colon  
 AI Automation Specialist  
 [LinkedIn](https://www.linkedin.com/in/lesleycolon)
+
+
+
+\## Project Documentation
+
+
+
+\[View the invoice automation case study](docs/invoice-reporting-automation-case-study.pdf)
+
+
+
+
+

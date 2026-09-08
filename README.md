@@ -63,3 +63,11 @@ AI Automation Specialist
 
 \[View the invoice automation case study](./docs/invoice-reporting-automation-case-study.pdf)
 
+
+
+\## Note
+
+
+
+This is a TripleTen portfolio project built with hypothetical business data for demonstration and learning purposes.
+

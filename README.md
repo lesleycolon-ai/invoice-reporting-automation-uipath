@@ -55,13 +55,11 @@ AI Automation Specialist
 
 
 
+
+
 \## Project Documentation
 
 
 
-\[View the invoice automation case study](docs/invoice-reporting-automation-case-study.pdf)
-
-
-
-
+\[View the invoice automation case study](./docs/invoice-reporting-automation-case-study.pdf)
 

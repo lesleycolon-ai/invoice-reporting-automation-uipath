@@ -54,14 +54,9 @@ AI Automation Specialist
 [LinkedIn](https://www.linkedin.com/in/lesleycolon)
 
 
+## Project Documentation
 
-
-
-\## Project Documentation
-
-
-
-\[View the invoice automation case study](./docs/invoice-reporting-automation-case-study.pdf)
+[View the invoice automation case study](./docs/invoice-reporting-automation-case-study.pdf)
 
 
 
